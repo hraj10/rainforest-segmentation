@@ -1,6 +1,6 @@
 # Deep Learning Deforestation Detection
 
-This repository contains all of the resources associated with my final project for the ST456 Deep Learning course at the London School of Economics, which I completed jointly with Rick Holubec and Chayenne Mosk. Our work focuses on identifying and tracking deforestation in the Amazon Rainforest using state-of-the-art deep learning models and multispectral satellite imagery.
+This repository contains all of the resources associated with my final project for the ST456 Deep Learning course at the London School of Economics, which I completed jointly with Jacob Eliason and Chayenne Mosk. Our work focuses on identifying and tracking deforestation in the Amazon Rainforest using state-of-the-art deep learning models and multispectral satellite imagery.
 
 ## Structure
 
@@ -46,7 +46,7 @@ For this project, we used the dataset containing 619 4-band satellite images fro
 
 ## Contributions
 
-As stated above, this project was completed jointly with Rick Holubec and Chayenne Mosk. Scripts named with a `*` character were written by me; the others were written by my collaborators. Our paper includes this statement about our individual contributions:
+As stated above, this project was completed jointly with Jacob Eliason and Chayenne Mosk. Our paper includes this statement about our individual contributions:
 
 >All authors contributed equally to the research question formulation and data sourcing. All authors contributed to the determination of the analytical framework and methods. All authors completed independent exploratory data analyses. All authors contributed to the evaluation framework used. All authors contributed to the processing and augmentation script used.
 >- Mosk: implemented FCN, SegNet and Attention U-Net
